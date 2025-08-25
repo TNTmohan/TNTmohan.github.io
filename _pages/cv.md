@@ -7,14 +7,11 @@ redirect_from:
   - /resume
 ---
 
-
 Education
 ======
 * Ph.D in Electrical Engineering, Tsinghua University, 2021-2026 (expected)
 * B.S. in Electrical Engineering, Tsinghua University, 2017-2021
   - Minor in Data Science and Technology
-
-
   
 Skills
 ======
