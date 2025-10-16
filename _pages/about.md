@@ -11,6 +11,6 @@ I'm a fourth-year PhD student from the [Department of Electrical Engineering](ht
 
 I'm very fortunate to be advised by [Prof.Ying Yang](https://www.eea.tsinghua.edu.cn/en/faculties/yyang.htm)
 
-You can find my CV here: [Tengteng Niu's Curriculum Vitae](https://tntmohan.github.io/assets/CV.pdf).
+You can find my CV here: [Tengteng Niu's Curriculum Vitae](https://tntmohan.github.io/assets/CV-Tengteng Niu.pdf).
 
-**I am actively seeking postdoctoral opportunities starting in Fall 2026.**
+**I am actively seeking research and development positions commencing in Fall 2026.**
